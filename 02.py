@@ -12,3 +12,4 @@ total = m1 +m2 +m3
 print("total mark:",total)
 avg=total/3
 print("average mark:",avg)
+
